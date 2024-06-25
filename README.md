@@ -14,22 +14,6 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Hotel_room">
-          <img alt="Hotel_room" src="./images/projects/hotel.jpeg" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/ardilaBeltranLeiverManuel/Weather">
-          <img alt="Weather" src="./images/projects/weather.png" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Hotel_Room</td>
-      <td>Weather</td>
-    </tr>
-    <tr>
-      <td>
         <a target="_blank" href="https://www.myntist.com/">
           <img alt="My Ntist" src="./img/projects/myntist.png" />
         </a>
