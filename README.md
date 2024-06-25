@@ -1,4 +1,4 @@
-# Hello, I'm Megalord :wave:
+# Hello, I'm Ardila Leiver :wave:
 I am an experienced and skilled full stack developer with a specialization in blockchain, smart contract development, and NFTs. With over 6 years of remote work experience, I have a proven track record of delivering successful projects.
 
 In terms of front-end development, I am proficient in working with modern frameworks such as React and Vue. I have a deep understanding of responsive design principles and can create visually appealing applications that function seamlessly across various devices.
